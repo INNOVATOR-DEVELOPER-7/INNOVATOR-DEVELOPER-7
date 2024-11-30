@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Website and App Development**
 
-- 🤝 I’m looking for help with **Astrinomy Book**
+- 🤝 I’m looking for help with **Astronomy Book**
 
 - 👨‍💻 All of my projects are available at [https://leafy-truffle-9e1046.netlify.app](https://leafy-truffle-9e1046.netlify.app)
 
